@@ -1,0 +1,18 @@
+.container {
+  overflow: scroll;
+  background-color: #111827;
+  color: #f3f4f6;
+  width: 16rem;
+  max-width:20%;
+  min-width: 150;
+  max-height: 100vh;
+}
+.button{
+  padding: 0.5rem
+}
+.buttonsContainer{
+  padding: 0.5rem
+}
+.isActive{
+  font-weight: 700; 
+}
